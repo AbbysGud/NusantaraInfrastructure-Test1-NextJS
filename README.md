@@ -20,7 +20,9 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Second, to run the CRUD json database, first install with:
+Second, to be able to use the login and register function, register to [Clerk](https://dashboard.clerk.com/) to get the API for the .env.local, the clerk dependencies used for login, register, and profile.
+
+Third, to run the CRUD json database, first install with:
 
 ```bash
 npm i -g json-server
