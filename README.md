@@ -28,7 +28,7 @@ Third, to run the CRUD json database, first install with:
 npm i -g json-server
 ```
 
-then to run it used (it will take db.json as the database, routes.json as the route, and using port 5000):
+then to run it use (it will take db.json as the database, routes.json as the route, and using port 5000):
 
 ```bash
 json-server --watch db.json --routes routes.json --port 5000
