@@ -20,6 +20,14 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+Second, to run the CRUD json database, first install with:
+
+npm i -g json-server
+
+then to run it used (it will take db.json as the database, routes.json as the route, and using port 5000):
+
+json-server --watch db.json --routes routes.json --port 5000
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:

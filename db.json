@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1703937141356,
+      "user_id": "user_2aHyNvajVkzFwnREH43nHdjSyX2",
+      "isbn": "9781491943533",
+      "title": "Buku 1",
+      "subtitle": "Dive into ES6 and the Future of JavaScript",
+      "author": "Nicolás Bevacqua",
+      "published": "2017-07-16 00:00:00",
+      "publisher": "O'Reilly Media",
+      "pages": 334,
+      "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+      "website": "https://github.com/mjavascript/practical-modern-javascript",
+      "created_at": "Sat Dec 30 2023 18:52:21 GMT+0700 (Western Indonesia Time)",
+      "updated_at": "Sat Dec 30 2023 18:57:19 GMT+0700 (Western Indonesia Time)"
+    },
+    {
+      "id": 1703937144235,
+      "user_id": "user_2aHyNvajVkzFwnREH43nHdjSyX2",
+      "isbn": "9781491943533",
+      "title": "Buku 2",
+      "subtitle": "Dive into ES6 and the Future of JavaScript",
+      "author": "Nicolás Bevacqua",
+      "published": "2017-07-16 00:00:00",
+      "publisher": "O'Reilly Media",
+      "pages": 334,
+      "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+      "website": "https://github.com/mjavascript/practical-modern-javascript",
+      "created_at": "Sat Dec 30 2023 18:52:24 GMT+0700 (Western Indonesia Time)",
+      "updated_at": "Sat Dec 30 2023 18:57:31 GMT+0700 (Western Indonesia Time)"
+    },
+    {
+      "id": 1703946369536,
+      "user_id": "user_2aHyNvajVkzFwnREH43nHdjSyX2",
+      "isbn": "9781491943533",
+      "title": "Buku 3",
+      "subtitle": "Dive into ES6 and the Future of JavaScript",
+      "author": "Nicolás Bevacqua",
+      "published": "2017-07-16 00:00:00",
+      "publisher": "O'Reilly Media",
+      "pages": 330,
+      "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+      "website": "https://github.com/mjavascript/practical-modern-javascript",
+      "created_at": "Sat Dec 30 2023 21:26:09 GMT+0700 (Western Indonesia Time)",
+      "updated_at": "2023-12-31T04:35:21.987Z"
+    }
+  ]
+}
